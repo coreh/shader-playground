@@ -630,6 +630,12 @@ Task("Build-Naga")
 
     BuildVersion("8376bab5622f89ed9689cd0c3aedfd97c333c5bf", "v0.5.0");
     BuildVersion("3a2f7e611e4fe8ec50d9bb365916f22e7c30e46c", "v0.7.0");
+    BuildVersion("8a1792159ad30c06561d576127a2e3c97ba0db93", "v0.8.5");
+    BuildVersion("06ae90527dcede1a98d6f15fa7c440f0eab5d0ba", "v0.9.0");
+    BuildVersion("edc7db947e789df9c9f427864431bd2096ec3313", "v0.10.1");
+    BuildVersion("f0edae8ce9e55eeef489fc53b10dc95fb79561cc", "v0.11.0");
+    BuildVersion("5cb625a9a019c86a71691f025de1d478ecf4ab65", "v0.12.2");
+    BuildVersion("bac2d82a430fbfcf100ee22b7c3bc12f3d593079", "v0.13.0");
   });
 
 Task("Build-Fxc-Shim")
